@@ -1,14 +1,13 @@
-# GoGAM
-GoLang + Gin + AngularJs + MongoDB Stack
+# [WIP] Kidstories Users API
+GoLang + Gin + MongoDB Stack
 
 Web Application stack built with the following technologies:
 
 * GoLang for developing the backend
 * Gin for API routing
-* AngularJS for developing the frontend
 * MongoDB for the Database (NoSQL)
 
-![Alt text](gam.png?raw=true "GoLang + Angular + MongoDB")
+<!-- ![Alt text](gam.png?raw=true "GoLang + Angular + MongoDB") -->
 
 ## Local Setup
 
@@ -16,14 +15,11 @@ Pre-requisite:
 
 + [GoLang](https://golang.org/)
 + [MongoDB](https://www.mongodb.com/)
-+ [Nodejs](https://nodejs.org/)
 
 
 ## <a name="building"></a> Building
 
-Developers can easily build GoGAM using NPM and gulp.
-
-* [Builds - Under the Hood](docs/guides/BUILD.md)
+Developers can easily build Go Lang API.
 
 First install or update your local project's **npm** tools:
 
@@ -58,19 +54,8 @@ npm update
     $ go get gopkg.in/mgo.v2/bson
     ```
 
-Then run the **gulp** tasks:
-The task runner will automatically rebuild the application and restart the go web server.
-
-```bash
-# To build minified version
-gulp
-```
-
-For more details on how the build process works and additional commands (available for testing and
-debugging) developers should read the [Build Instructions](docs/guides/BUILD.md).
-
-## GoGAM Roadmap
-[Roadmap](https://trello.com/b/2absNVkv/gogam)
+<!-- ## Roadmap -->
+<!-- [Roadmap](https://trello.com/b/2absNVkv/gogam) -->
 
 
 

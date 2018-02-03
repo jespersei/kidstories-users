@@ -1,7 +1,0 @@
-{"_id":{"$oid":"58c82421dd1b66085330ee50"},"code":"PT001","productType":"Supplies"}
-{"_id":{"$oid":"58c82421dd1b66085330ee51"},"code":"PT002","productType":"Other Payment"}
-{"_id":{"$oid":"58c82421dd1b66085330ee52"},"code":"PT003","productType":"Last Balance"}
-{"_id":{"$oid":"58c82421dd1b66085330ee53"},"code":"PT004","productType":"2016 Balance"}
-{"_id":{"$oid":"58c82421dd1b66085330ee54"},"code":"PT005","productType":"Maintenance"}
-{"_id":{"$oid":"58c82421dd1b66085330ee55"},"code":"PT006","productType":"Franchise"}
-{"_id":{"$oid":"58c82421dd1b66085330ee56"},"code":"PT007","productType":"Machine Parts"}

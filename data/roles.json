@@ -1,5 +1,0 @@
-{"_id":{"$oid":"58cbcf51dd1b66066c0356b7"},"code":"R001","roleName":"Admin"}
-{"_id":{"$oid":"58cbcf51dd1b66066c0356b8"},"code":"R002","roleName":"Sales"}
-{"_id":{"$oid":"58cbcf51dd1b66066c0356b9"},"code":"R003","roleName":"Client"}
-{"_id":{"$oid":"58cbcf51dd1b66066c0356ba"},"code":"R004","roleName":"Supplies"}
-{"_id":{"$oid":"58cbcf51dd1b66066c0356bb"},"code":"R005","roleName":"Bottling"}
