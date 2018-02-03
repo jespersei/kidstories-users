@@ -1,0 +1,11 @@
+{"_id":{"$oid":"58c82514dd1b66085330ef8a"},"code":"WH001","warehouse":"Westbank","address":null,"contactNo":null,"contactPerson":null}
+{"_id":{"$oid":"58c82514dd1b66085330ef8b"},"code":"WH002","warehouse":"Quiapo","address":null,"contactNo":null,"contactPerson":null}
+{"_id":{"$oid":"58c82514dd1b66085330ef8c"},"code":"WH003","warehouse":"CAA","address":null,"contactNo":null,"contactPerson":null}
+{"_id":{"$oid":"58c82514dd1b66085330ef8d"},"code":"WH004","warehouse":"Lavavel","address":null,"contactNo":null,"contactPerson":null}
+{"_id":{"$oid":"58c82514dd1b66085330ef8e"},"code":"WH005","warehouse":"Biga Cavite","address":null,"contactNo":null,"contactPerson":null}
+{"_id":{"$oid":"58c82514dd1b66085330ef8f"},"code":"WH006","warehouse":"Parian Laguna","address":null,"contactNo":null,"contactPerson":null}
+{"_id":{"$oid":"58c82514dd1b66085330ef90"},"code":"WH007","warehouse":"Sto Tomas Batangas","address":null,"contactNo":null,"contactPerson":null}
+{"_id":{"$oid":"58c82514dd1b66085330ef91"},"code":"WH008","warehouse":"Cainta Rizal","address":null,"contactNo":null,"contactPerson":null}
+{"_id":{"$oid":"58c82514dd1b66085330ef92"},"code":"WH009","warehouse":"Caridad North2","address":null,"contactNo":null,"contactPerson":null}
+{"_id":{"$oid":"58cbcea22056a76f0baadefe"},"code":"WH010","warehouse":"South"}
+{"_id":{"$oid":"58cbceaf2056a76f0baadf01"},"code":"WH011","warehouse":"Main"}

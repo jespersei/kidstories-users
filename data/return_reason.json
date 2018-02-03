@@ -1,0 +1,9 @@
+{"_id":{"$oid":"58c82459dd1b66085330ee67"},"code":"RR001","returnReason":"Order Pinick up sa Edsa"}
+{"_id":{"$oid":"58c82459dd1b66085330ee68"},"code":"RR002","returnReason":"Wala ng Stock room sa edsa, Nilipat na sa main mga stocks"}
+{"_id":{"$oid":"58c82459dd1b66085330ee69"},"code":"RR003","returnReason":"Idedeliver sa sandbox at Ate Mayo"}
+{"_id":{"$oid":"58c82459dd1b66085330ee6a"},"code":"RR004","returnReason":"Idedeliver kay ate mayo"}
+{"_id":{"$oid":"58c82459dd1b66085330ee6b"},"code":"RR005","returnReason":"Sobra sa machine 2016-0002"}
+{"_id":{"$oid":"58c82459dd1b66085330ee6c"},"code":"RR006","returnReason":"w/ thread Sobra sa machine 2016-0002"}
+{"_id":{"$oid":"58c82459dd1b66085330ee6d"},"code":"RR007","returnReason":"w/ thread Sobra sa machine 2016-0003"}
+{"_id":{"$oid":"58c8245add1b66085330ee6e"},"code":"RR008","returnReason":"Sobra sa machine 2016-0003"}
+{"_id":{"$oid":"58c8245add1b66085330ee6f"},"code":"RR009","returnReason":"Sobra sa machine 2016-0004"}

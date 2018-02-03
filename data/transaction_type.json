@@ -1,0 +1,8 @@
+{"_id":{"$oid":"58cbd194dd1b66066c0356bd"},"code":"S2W","transactionType":"Supplier to Warehouse"}
+{"_id":{"$oid":"58cbd194dd1b66066c0356be"},"code":"W2W","transactionType":"Warehouse to Warehouse"}
+{"_id":{"$oid":"58cbd194dd1b66066c0356bf"},"code":"W2S","transactionType":"Warehouse to Station"}
+{"_id":{"$oid":"58cbd194dd1b66066c0356c0"},"code":"W2DS","transactionType":"Warehouse to District Office"}
+{"_id":{"$oid":"58cbd194dd1b66066c0356c1"},"code":"W2DV","transactionType":"Warehouse to Division Office"}
+{"_id":{"$oid":"58cbd194dd1b66066c0356c2"},"code":"W2L","transactionType":"Warehouse to Locale"}
+{"_id":{"$oid":"58cbd194dd1b66066c0356c3"},"code":"W2PS","transactionType":"Warehouse to Partner Store"}
+{"_id":{"$oid":"58cbd194dd1b66066c0356c4"},"code":"W2FP","transactionType":"Warehouse to Food Pack"}

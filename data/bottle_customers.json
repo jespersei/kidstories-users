@@ -1,0 +1,696 @@
+{"_id":{"$oid":"58c82031dd1b66085330eb98"},"code":100000,"parent":"Philippines","customer":"Batzam","customerType":"Division","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330eb99"},"code":100001,"parent":"Philippines","customer":"Branch","customerType":"Division","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330eb9a"},"code":100002,"parent":"Philippines","customer":"Bulacan","customerType":"Division","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330eb9b"},"code":100004,"parent":"Philippines","customer":"Cavite","customerType":"Division","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330eb9c"},"code":100006,"parent":"Philippines","customer":"LBMR","customerType":"Division","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330eb9d"},"code":100008,"parent":"Philippines","customer":"Metro","customerType":"Division","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330eb9e"},"code":100010,"parent":"Philippines","customer":"North1","customerType":"Division","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330eb9f"},"code":100012,"parent":"Philippines","customer":"North2","customerType":"Division","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330eba0"},"code":100014,"parent":"Philippines","customer":"Pampanga","customerType":"Division","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330eba1"},"code":100016,"parent":"Philippines","customer":"Rizal","customerType":"Division","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330eba2"},"code":200001,"parent":"Batzam","customer":"Bataan District 1","customerType":"Division","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330eba3"},"code":200002,"parent":"Batzam","customer":"Bataan District 2","customerType":"District","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330eba4"},"code":200003,"parent":"Batzam","customer":"Zambales District 1","customerType":"District","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330eba5"},"code":200004,"parent":"Batzam","customer":"Luzon Branch","customerType":"District","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330eba6"},"code":200005,"parent":"Branch","customer":"NCR Branch","customerType":"District","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330eba7"},"code":200006,"parent":"Branch","customer":"Vis-Min Branch","customerType":"District","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330eba8"},"code":200007,"parent":"Branch","customer":"Bulacan District 1","customerType":"District","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330eba9"},"code":200008,"parent":"Bulacan","customer":"Bulacan District 2","customerType":"District","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ebaa"},"code":200009,"parent":"Bulacan","customer":"Bulacan District 3","customerType":"District","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ebab"},"code":200010,"parent":"Bulacan","customer":"Bulacan District 4","customerType":"District","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ebac"},"code":200011,"parent":"Bulacan","customer":"Bulacan District 5","customerType":"District","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ebad"},"code":200012,"parent":"Bulacan","customer":"Cavite Central","customerType":"District","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ebae"},"code":200013,"parent":"Cavite","customer":"Cavite North","customerType":"District","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ebaf"},"code":200014,"parent":"Cavite","customer":"Cavite East","customerType":"District","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ebb0"},"code":200015,"parent":"Cavite","customer":"Cavite West","customerType":"District","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ebb1"},"code":200016,"parent":"Cavite","customer":"Cavite South","customerType":"District","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ebb2"},"code":200017,"parent":"Cavite","customer":"LBMR Batangas","customerType":"District","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ebb3"},"code":200018,"parent":"LBMR","customer":"LBMR East","customerType":"District","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ebb4"},"code":200019,"parent":"LBMR","customer":"LBMR North","customerType":"District","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ebb5"},"code":200020,"parent":"LBMR","customer":"LBMR South","customerType":"District","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ebb6"},"code":200021,"parent":"LBMR","customer":"LBMR West","customerType":"District","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ebb7"},"code":200022,"parent":"LBMR","customer":"Dealer","customerType":"District","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ebb8"},"code":200023,"parent":"Metro Manila","customer":"Food Pack","customerType":"District","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ebb9"},"code":200024,"parent":"Metro Manila","customer":"MM Central","customerType":"District","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ebba"},"code":200025,"parent":"Metro Manila","customer":"MM North","customerType":"District","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ebbb"},"code":200026,"parent":"Metro Manila","customer":"MM East","customerType":"District","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ebbc"},"code":200027,"parent":"Metro Manila","customer":"MM West","customerType":"District","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ebbd"},"code":200028,"parent":"Metro Manila","customer":"MM South","customerType":"District","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ebbe"},"code":200029,"parent":"Metro Manila","customer":"UNTV","customerType":"District","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ebbf"},"code":200030,"parent":"Metro Manila","customer":"Tarlac","customerType":"District","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ebc0"},"code":200031,"parent":"North1","customer":"Pangasinan","customerType":"District","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ebc1"},"code":200032,"parent":"North1","customer":"Dagupan","customerType":"District","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ebc2"},"code":200033,"parent":"North1","customer":"Illocos Norte","customerType":"District","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ebc3"},"code":200034,"parent":"North1","customer":"Illocos Sur","customerType":"District","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ebc4"},"code":200035,"parent":"North1","customer":"Nueva Ecija","customerType":"District","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ebc5"},"code":200036,"parent":"North2","customer":"Aurora","customerType":"District","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ebc6"},"code":200037,"parent":"North2","customer":"Nueva Vizcaya \u0026 Ifugao","customerType":"District","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ebc7"},"code":200038,"parent":"North2","customer":"Isabela \u0026 Quirino","customerType":"District","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ebc8"},"code":200039,"parent":"North2","customer":"Kagayan \u0026 Kalinga Apayao","customerType":"District","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ebc9"},"code":200040,"parent":"North2","customer":"Pampanga District 1","customerType":"District","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ebca"},"code":200041,"parent":"Pampanga","customer":"Pampanga District 2","customerType":"District","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ebcb"},"code":200042,"parent":"Pampanga","customer":"Pampanga District 3","customerType":"District","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ebcc"},"code":200043,"parent":"Pampanga","customer":"Pampanga District 4","customerType":"District","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ebcd"},"code":200044,"parent":"Pampanga","customer":"Pampanga District 5","customerType":"District","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ebce"},"code":200045,"parent":"Pampanga","customer":"Rizal Central","customerType":"District","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ebcf"},"code":200046,"parent":"Rizal","customer":"Rizal North","customerType":"District","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ebd0"},"code":200047,"parent":"Rizal","customer":"Rizal East","customerType":"District","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ebd1"},"code":200048,"parent":"Rizal","customer":"Rizal West","customerType":"District","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ebd2"},"code":200049,"parent":"Rizal","customer":"Rizal South","customerType":"District","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ebd3"},"code":200050,"parent":"Rizal","customer":"Arayat","customerType":"District","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ebd4"},"code":300001,"parent":"Luzon Branch","customer":"Dela Paz","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ebd5"},"code":300002,"parent":"Luzon Branch","customer":"Angeles","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ebd6"},"code":300003,"parent":"Luzon Branch","customer":"Lubao","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ebd7"},"code":300004,"parent":"Luzon Branch","customer":"Mexico","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ebd8"},"code":300005,"parent":"Luzon Branch","customer":"Dila Dila","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ebd9"},"code":300006,"parent":"Luzon Branch","customer":"Mabalacat","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ebda"},"code":300007,"parent":"Luzon Branch","customer":"San Fernando","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ebdb"},"code":300008,"parent":"Luzon Branch","customer":"Sta Rita","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ebdc"},"code":300009,"parent":"Luzon Branch","customer":"Anjene","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ebdd"},"code":300010,"parent":"Luzon Branch","customer":"Calumpit","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ebde"},"code":300011,"parent":"Luzon Branch","customer":"Muzon","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ebdf"},"code":300012,"parent":"Luzon Branch","customer":"Plaridel","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ebe0"},"code":300013,"parent":"Luzon Branch","customer":"Pulong Buhangin","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ebe1"},"code":300014,"parent":"Luzon Branch","customer":"Paombong Bulacan","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ebe2"},"code":300015,"parent":"Luzon Branch","customer":"Kapihan","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ebe3"},"code":300016,"parent":"Luzon Branch","customer":"Botolan","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ebe4"},"code":300017,"parent":"Luzon Branch","customer":"Olongapo","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ebe5"},"code":300018,"parent":"Luzon Branch","customer":"Dagupan","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ebe6"},"code":300019,"parent":"Luzon Branch","customer":"Pangasinan","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ebe7"},"code":300020,"parent":"Luzon Branch","customer":"Munoz N. Ecija","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ebe8"},"code":300021,"parent":"Luzon Branch","customer":"San Leonardo","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ebe9"},"code":300022,"parent":"Luzon Branch","customer":"Antipolo 1","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ebea"},"code":300023,"parent":"Luzon Branch","customer":"Antipolo 2","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ebeb"},"code":300024,"parent":"Luzon Branch","customer":"Floodway","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ebec"},"code":300025,"parent":"Luzon Branch","customer":"San Juan","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ebed"},"code":300026,"parent":"Luzon Branch","customer":"Teresa","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ebee"},"code":300027,"parent":"Luzon Branch","customer":"Binangonan","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ebef"},"code":300028,"parent":"Luzon Branch","customer":"San Isidro","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ebf0"},"code":300029,"parent":"Luzon Branch","customer":"San Mateo","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ebf1"},"code":300030,"parent":"Luzon Branch","customer":"Gen Trias","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ebf2"},"code":300031,"parent":"Luzon Branch","customer":"Aguado","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ebf3"},"code":300032,"parent":"Luzon Branch","customer":"Imus","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ebf4"},"code":300033,"parent":"Luzon Branch","customer":"Digman","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ebf5"},"code":300034,"parent":"Luzon Branch","customer":"Gma Cavite","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ebf6"},"code":300035,"parent":"Luzon Branch","customer":"Habay 1","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ebf7"},"code":300036,"parent":"Luzon Branch","customer":"Niog 2","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ebf8"},"code":300037,"parent":"Luzon Branch","customer":"Molino","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ebf9"},"code":300038,"parent":"Luzon Branch","customer":"Sta Rosa","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ebfa"},"code":300039,"parent":"Luzon Branch","customer":"Binan","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ebfb"},"code":300040,"parent":"Luzon Branch","customer":"Lipa Batangas","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ebfc"},"code":300041,"parent":"Luzon Branch","customer":"Centenials","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ebfd"},"code":300042,"parent":"Luzon Branch","customer":"Tagapo","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ebfe"},"code":300043,"parent":"Luzon Branch","customer":"San Pedro","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ebff"},"code":300044,"parent":"Luzon Branch","customer":"Malvar","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec00"},"code":300045,"parent":"Luzon Branch","customer":"Lapaz Tarlac","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec01"},"code":300046,"parent":"Luzon Branch","customer":"Tarlac 2","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec02"},"code":300047,"parent":"Luzon Branch","customer":"Lucena","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec03"},"code":300048,"parent":"Luzon Branch","customer":"Daet","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec04"},"code":300049,"parent":"Luzon Branch","customer":"Naga","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec05"},"code":300050,"parent":"Luzon Branch","customer":"Commonwealth","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec06"},"code":300051,"parent":"NCR Branch","customer":"Cubao Aurora","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec07"},"code":300052,"parent":"NCR Branch","customer":"Krus Na Ligas","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec08"},"code":300053,"parent":"NCR Branch","customer":"Lagro","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec09"},"code":300054,"parent":"NCR Branch","customer":"Edsa Munoz","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec0a"},"code":300055,"parent":"NCR Branch","customer":"Novaliches","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec0b"},"code":300056,"parent":"NCR Branch","customer":"Phase 1","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec0c"},"code":300057,"parent":"NCR Branch","customer":"Deparo","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec0d"},"code":300058,"parent":"NCR Branch","customer":"Tala","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec0e"},"code":300059,"parent":"NCR Branch","customer":"Baritan","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec0f"},"code":300060,"parent":"NCR Branch","customer":"Camarin","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec10"},"code":300061,"parent":"NCR Branch","customer":"C. Raymundo","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec11"},"code":300062,"parent":"NCR Branch","customer":"Kalawaan","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec12"},"code":300063,"parent":"NCR Branch","customer":"Mandaluyong","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec13"},"code":300064,"parent":"NCR Branch","customer":"Hulo","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec14"},"code":300065,"parent":"NCR Branch","customer":"Parang Marikina","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec15"},"code":300066,"parent":"NCR Branch","customer":"Pateros","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec16"},"code":300067,"parent":"NCR Branch","customer":"Sta Ana Manila","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec17"},"code":300068,"parent":"NCR Branch","customer":"Baseco","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec18"},"code":300069,"parent":"NCR Branch","customer":"Blumentritt","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec19"},"code":300070,"parent":"NCR Branch","customer":"Comembo","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec1a"},"code":300071,"parent":"NCR Branch","customer":"Panday Pira","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec1b"},"code":300072,"parent":"NCR Branch","customer":"Quiapo","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec1c"},"code":300073,"parent":"NCR Branch","customer":"Bagumbayan","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec1d"},"code":300074,"parent":"NCR Branch","customer":"Caa Las Pinas","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec1e"},"code":300075,"parent":"NCR Branch","customer":"Libertad-Kasangbahay","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec1f"},"code":300076,"parent":"NCR Branch","customer":"Malibay","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec20"},"code":300077,"parent":"NCR Branch","customer":"Moowalk","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec21"},"code":300078,"parent":"NCR Branch","customer":"Signal Taguig","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec22"},"code":300079,"parent":"NCR Branch","customer":"Sunvalley","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec23"},"code":300080,"parent":"NCR Branch","customer":"Ususan","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec24"},"code":300081,"parent":"NCR Branch","customer":"Veraville","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec25"},"code":300082,"parent":"NCR Branch","customer":"Bacolod","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec26"},"code":300083,"parent":"Vis-Min Branch","customer":"Catarman","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec27"},"code":300084,"parent":"Vis-Min Branch","customer":"Ilo-Ilo","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec28"},"code":300085,"parent":"Vis-Min Branch","customer":"Mandaue","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec29"},"code":300086,"parent":"Vis-Min Branch","customer":"Tagbilaran","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec2a"},"code":300087,"parent":"Vis-Min Branch","customer":"Bajada","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec2b"},"code":300088,"parent":"Vis-Min Branch","customer":"Butuan","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec2c"},"code":300089,"parent":"Vis-Min Branch","customer":"Cagayan De Oro","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec2d"},"code":300090,"parent":"Vis-Min Branch","customer":"Digos City","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec2e"},"code":300091,"parent":"Vis-Min Branch","customer":"Iligan City","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec2f"},"code":300092,"parent":"Vis-Min Branch","customer":"Surigao City","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec30"},"code":300093,"parent":"Vis-Min Branch","customer":"Tagum","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec31"},"code":300094,"parent":"Vis-Min Branch","customer":"Zamboanga","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec32"},"code":300095,"parent":"Vis-Min Branch","customer":"Tarcan","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec33"},"code":300096,"parent":"Bulacan District 1","customer":"Alagao","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec34"},"code":300097,"parent":"Bulacan District 1","customer":"Baliuag","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec35"},"code":300098,"parent":"Bulacan District 1","customer":"Bustos","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec36"},"code":300099,"parent":"Bulacan District 1","customer":"Capihan","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec37"},"code":300100,"parent":"Bulacan District 1","customer":"Donacion","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec38"},"code":300101,"parent":"Bulacan District 1","customer":"Partida","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec39"},"code":300102,"parent":"Bulacan District 1","customer":"Rosemoor","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec3a"},"code":300103,"parent":"Bulacan District 1","customer":"Sabang","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec3b"},"code":300104,"parent":"Bulacan District 1","customer":"Salacot","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec3c"},"code":300105,"parent":"Bulacan District 1","customer":"San Ildefonso","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec3d"},"code":300106,"parent":"Bulacan District 1","customer":"San Rafael","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec3e"},"code":300107,"parent":"Bulacan District 1","customer":"Sibul","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec3f"},"code":300108,"parent":"Bulacan District 1","customer":"Sto.Nino","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec40"},"code":300109,"parent":"Bulacan District 1","customer":"Talbak","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec41"},"code":300110,"parent":"Bulacan District 1","customer":"Balucuc","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec42"},"code":300111,"parent":"Bulacan District 2","customer":"Bangkal","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec43"},"code":300112,"parent":"Bulacan District 2","customer":"Bungahan","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec44"},"code":300113,"parent":"Bulacan District 2","customer":"Culianin","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec45"},"code":300114,"parent":"Bulacan District 2","customer":"Dampol","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec46"},"code":300115,"parent":"Bulacan District 2","customer":"Liciada","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec47"},"code":300116,"parent":"Bulacan District 2","customer":"Malolos","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec48"},"code":300117,"parent":"Bulacan District 2","customer":"Mojon","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec49"},"code":300118,"parent":"Bulacan District 2","customer":"Plaridel","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec4a"},"code":300119,"parent":"Bulacan District 2","customer":"Panasahan","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec4b"},"code":300120,"parent":"Bulacan District 2","customer":"Sta.Rita","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec4c"},"code":300121,"parent":"Bulacan District 2","customer":"Sto.Nino","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec4d"},"code":300122,"parent":"Bulacan District 2","customer":"Longos","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec4e"},"code":300123,"parent":"Bulacan District 2","customer":"Balasing","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec4f"},"code":300124,"parent":"Bulacan District 3","customer":"Bulac","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec50"},"code":300125,"parent":"Bulacan District 3","customer":"Caysio","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec51"},"code":300126,"parent":"Bulacan District 3","customer":"Garden","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec52"},"code":300127,"parent":"Bulacan District 3","customer":"N.Garay","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec53"},"code":300128,"parent":"Bulacan District 3","customer":"Gumaok","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec54"},"code":300129,"parent":"Bulacan District 3","customer":"Melody","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec55"},"code":300130,"parent":"Bulacan District 3","customer":"North Hill Village","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec56"},"code":300131,"parent":"Bulacan District 3","customer":"Parada","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec57"},"code":300132,"parent":"Bulacan District 3","customer":"Pecson","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec58"},"code":300133,"parent":"Bulacan District 3","customer":"Poblacion-Sta.Maria","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec59"},"code":300134,"parent":"Bulacan District 3","customer":"Sapang Palay","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec5a"},"code":300135,"parent":"Bulacan District 3","customer":"Sto.Cristo","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec5b"},"code":300136,"parent":"Bulacan District 3","customer":"Towervile","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec5c"},"code":300137,"parent":"Bulacan District 3","customer":"San Jose","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec5d"},"code":300138,"parent":"Bulacan District 3","customer":"Anjene","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec5e"},"code":300139,"parent":"Bulacan District 4","customer":"Bagbaguin","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec5f"},"code":300140,"parent":"Bulacan District 4","customer":"Balagtas","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec60"},"code":300141,"parent":"Bulacan District 4","customer":"Bocaue","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec61"},"code":300142,"parent":"Bulacan District 4","customer":"Bulakan","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec62"},"code":300143,"parent":"Bulacan District 4","customer":"Heritage","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec63"},"code":300144,"parent":"Bulacan District 4","customer":"Ibayo","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec64"},"code":300145,"parent":"Bulacan District 4","customer":"Lambakin","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec65"},"code":300146,"parent":"Bulacan District 4","customer":"Lawa","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec66"},"code":300147,"parent":"Bulacan District 4","customer":"Meycauayan","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec67"},"code":300148,"parent":"Bulacan District 4","customer":"Marilao","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec68"},"code":300149,"parent":"Bulacan District 4","customer":"Pandi","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec69"},"code":300150,"parent":"Bulacan District 4","customer":"Panghulo","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec6a"},"code":300151,"parent":"Bulacan District 4","customer":"Sn.Nicolas","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec6b"},"code":300152,"parent":"Bulacan District 4","customer":"Sta.Ines","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec6c"},"code":300153,"parent":"Bulacan District 4","customer":"Sto.Nino","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec6d"},"code":300154,"parent":"Bulacan District 4","customer":"Tambubong","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec6e"},"code":300155,"parent":"Bulacan District 4","customer":"San Isidro","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec6f"},"code":300156,"parent":"Bulacan District 5","customer":"Calumpit","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec70"},"code":300157,"parent":"Bulacan District 5","customer":"Mercado","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec71"},"code":300158,"parent":"Bulacan District 5","customer":"San Pablo","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec72"},"code":300159,"parent":"Bulacan District 5","customer":"San Agustin","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec73"},"code":300160,"parent":"Bulacan District 5","customer":"San Nicolas","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec74"},"code":300161,"parent":"Bulacan District 5","customer":"Palapat","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec75"},"code":300162,"parent":"Bulacan District 5","customer":"Sto.Rosario","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec76"},"code":300163,"parent":"Bulacan District 5","customer":"Anabu","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec77"},"code":300164,"parent":"Cavite Central","customer":"Area-C","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec78"},"code":300165,"parent":"Cavite Central","customer":"Area-E","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec79"},"code":300166,"parent":"Cavite Central","customer":"Area-G","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec7a"},"code":300167,"parent":"Cavite Central","customer":"Bahayang Pagasa","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec7b"},"code":300168,"parent":"Cavite Central","customer":"Cityhomes","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec7c"},"code":300169,"parent":"Cavite Central","customer":"Dasmarinas","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec7d"},"code":300170,"parent":"Cavite Central","customer":"Imus","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec7e"},"code":300171,"parent":"Cavite Central","customer":"Malagasang","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec7f"},"code":300172,"parent":"Cavite Central","customer":"Paliparan","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec80"},"code":300173,"parent":"Cavite Central","customer":"Piela","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec81"},"code":300174,"parent":"Cavite Central","customer":"Sabang","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec82"},"code":300175,"parent":"Cavite Central","customer":"Salitran","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec83"},"code":300176,"parent":"Cavite Central","customer":"Alfonso","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec84"},"code":300177,"parent":"Cavite East","customer":"Amadeo","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec85"},"code":300178,"parent":"Cavite East","customer":"Bancal","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec86"},"code":300179,"parent":"Cavite East","customer":"Biga","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec87"},"code":300180,"parent":"Cavite East","customer":"Bulihan","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec88"},"code":300181,"parent":"Cavite East","customer":"Carmona","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec89"},"code":300182,"parent":"Cavite East","customer":"Ilang Ilang","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec8a"},"code":300183,"parent":"Cavite East","customer":"Kaong","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec8b"},"code":300184,"parent":"Cavite East","customer":"Magallanes","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec8c"},"code":300185,"parent":"Cavite East","customer":"Magra","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec8d"},"code":300186,"parent":"Cavite East","customer":"Malabag","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec8e"},"code":300187,"parent":"Cavite East","customer":"Mandarin","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec8f"},"code":300188,"parent":"Cavite East","customer":"Mendez","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec90"},"code":300189,"parent":"Cavite East","customer":"San Jose","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec91"},"code":300190,"parent":"Cavite East","customer":"Tagaytay","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec92"},"code":300191,"parent":"Cavite East","customer":"Tartaria","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec93"},"code":300192,"parent":"Cavite East","customer":"Tibig","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec94"},"code":300193,"parent":"Cavite East","customer":"Addas","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec95"},"code":300194,"parent":"Cavite North","customer":"Mabolo","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec96"},"code":300195,"parent":"Cavite North","customer":"Molino","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec97"},"code":300196,"parent":"Cavite North","customer":"Panapaan 1","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec98"},"code":300197,"parent":"Cavite North","customer":"Panapaan 2","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec99"},"code":300198,"parent":"Cavite North","customer":"Queensrow","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec9a"},"code":300199,"parent":"Cavite North","customer":"Springville","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec9b"},"code":300200,"parent":"Cavite North","customer":"Talaba","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec9c"},"code":300201,"parent":"Cavite North","customer":"Aguado","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec9d"},"code":300202,"parent":"Cavite South","customer":"Amaya","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec9e"},"code":300203,"parent":"Cavite South","customer":"Bagtas","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ec9f"},"code":300204,"parent":"Cavite South","customer":"Biclatan","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330eca0"},"code":300205,"parent":"Cavite South","customer":"Buenavista","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330eca1"},"code":300206,"parent":"Cavite South","customer":"Hugo Perez","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330eca2"},"code":300207,"parent":"Cavite South","customer":"Indang","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330eca3"},"code":300208,"parent":"Cavite South","customer":"Inocencio","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330eca4"},"code":300209,"parent":"Cavite South","customer":"Maragondon 1","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330eca5"},"code":300210,"parent":"Cavite South","customer":"Maragondon 2","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330eca6"},"code":300211,"parent":"Cavite South","customer":"Naic 1","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330eca7"},"code":300212,"parent":"Cavite South","customer":"Naic 2","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330eca8"},"code":300213,"parent":"Cavite South","customer":"Naic 3","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330eca9"},"code":300214,"parent":"Cavite South","customer":"Pabahay","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ecaa"},"code":300215,"parent":"Cavite South","customer":"Pantihan 3","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ecab"},"code":300216,"parent":"Cavite South","customer":"Paradahan","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ecac"},"code":300217,"parent":"Cavite South","customer":"Sunnybrooke","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ecad"},"code":300218,"parent":"Cavite South","customer":"Tanza","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ecae"},"code":300219,"parent":"Cavite South","customer":"Trece Martires","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ecaf"},"code":300220,"parent":"Cavite South","customer":"Cavite City","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ecb0"},"code":300221,"parent":"Cavite West","customer":"General Trias","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ecb1"},"code":300222,"parent":"Cavite West","customer":"Kawit","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ecb2"},"code":300223,"parent":"Cavite West","customer":"Noveleta","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ecb3"},"code":300224,"parent":"Cavite West","customer":"Pascam","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ecb4"},"code":300225,"parent":"Cavite West","customer":"Rosario","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ecb5"},"code":300226,"parent":"Cavite West","customer":"Agoncillo-W","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ecb6"},"code":300227,"parent":"LBMR Batangas","customer":"Balayan-W","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ecb7"},"code":300228,"parent":"LBMR Batangas","customer":"Batangas City-S","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ecb8"},"code":300229,"parent":"LBMR Batangas","customer":"Bauan-S","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ecb9"},"code":300230,"parent":"LBMR Batangas","customer":"Bayabasan-W","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ecba"},"code":300231,"parent":"LBMR Batangas","customer":"Calaca-W","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ecbb"},"code":300232,"parent":"LBMR Batangas","customer":"Calatagan-W","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ecbc"},"code":300233,"parent":"LBMR Batangas","customer":"Cuenca-S","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ecbd"},"code":300234,"parent":"LBMR Batangas","customer":"Don Juan-S","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ecbe"},"code":300235,"parent":"LBMR Batangas","customer":"Ibaan-E","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ecbf"},"code":300236,"parent":"LBMR Batangas","customer":"Inosluban-E","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ecc0"},"code":300237,"parent":"LBMR Batangas","customer":"Laiya-E","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ecc1"},"code":300238,"parent":"LBMR Batangas","customer":"Lemery-W","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ecc2"},"code":300239,"parent":"LBMR Batangas","customer":"Lian Balibago-W","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ecc3"},"code":300240,"parent":"LBMR Batangas","customer":"Lian Bayan-W","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ecc4"},"code":300241,"parent":"LBMR Batangas","customer":"Lipa Bayan-E","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ecc5"},"code":300242,"parent":"LBMR Batangas","customer":"Mabini-S","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ecc6"},"code":300243,"parent":"LBMR Batangas","customer":"Malaking Pulo-N","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ecc7"},"code":300244,"parent":"LBMR Batangas","customer":"Malvar-N","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ecc8"},"code":300245,"parent":"LBMR Batangas","customer":"Mataas Na Kahoy-E","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ecc9"},"code":300246,"parent":"LBMR Batangas","customer":"Nasugbu-W","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ecca"},"code":300247,"parent":"LBMR Batangas","customer":"Padre Garcia-E","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330eccb"},"code":300248,"parent":"LBMR Batangas","customer":"Pinagtungulan-S","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330eccc"},"code":300249,"parent":"LBMR Batangas","customer":"Rosario-E","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330eccd"},"code":300250,"parent":"LBMR Batangas","customer":"San Fernando-N","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ecce"},"code":300251,"parent":"LBMR Batangas","customer":"San Jose-S","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330eccf"},"code":300252,"parent":"LBMR Batangas","customer":"San Juan-E","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ecd0"},"code":300253,"parent":"LBMR Batangas","customer":"San Pascual-S","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ecd1"},"code":300254,"parent":"LBMR Batangas","customer":"Sto. Tomas-N","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ecd2"},"code":300255,"parent":"LBMR Batangas","customer":"Tagbac-W","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ecd3"},"code":300256,"parent":"LBMR Batangas","customer":"Tanauan-N","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ecd4"},"code":300257,"parent":"LBMR Batangas","customer":"Taysan-E","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ecd5"},"code":300258,"parent":"LBMR Batangas","customer":"Tilik-W","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ecd6"},"code":300259,"parent":"LBMR Batangas","customer":"Banca-Banca","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ecd7"},"code":300260,"parent":"LBMR East","customer":"Victoria","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ecd8"},"code":300261,"parent":"LBMR East","customer":"Pila","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ecd9"},"code":300262,"parent":"LBMR East","customer":"Sta.Cruz","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ecda"},"code":300263,"parent":"LBMR East","customer":"Magdalena","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ecdb"},"code":300264,"parent":"LBMR East","customer":"Luisiana","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ecdc"},"code":300265,"parent":"LBMR East","customer":"Majayjay","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ecdd"},"code":300266,"parent":"LBMR East","customer":"Pagsanjay","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ecde"},"code":300267,"parent":"LBMR East","customer":"Lumban","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ecdf"},"code":300268,"parent":"LBMR East","customer":"Kalayaan","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ece0"},"code":300269,"parent":"LBMR East","customer":"Paete","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ece1"},"code":300270,"parent":"LBMR East","customer":"Pakil","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ece2"},"code":300271,"parent":"LBMR East","customer":"Pangil","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ece3"},"code":300272,"parent":"LBMR East","customer":"Siniloan","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ece4"},"code":300273,"parent":"LBMR East","customer":"Famy","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ece5"},"code":300274,"parent":"LBMR East","customer":"Mabitac","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ece6"},"code":300275,"parent":"LBMR East","customer":"Paagahan","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ece7"},"code":300276,"parent":"LBMR East","customer":"Bubukal, Sta.Maria","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ece8"},"code":300277,"parent":"LBMR East","customer":"Sta.Maria, Bayan","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ece9"},"code":300278,"parent":"LBMR East","customer":"Llavac, Real","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ecea"},"code":300279,"parent":"LBMR East","customer":"Real, Bayan","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330eceb"},"code":300280,"parent":"LBMR East","customer":"Binulasa, Infanta","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ecec"},"code":300281,"parent":"LBMR East","customer":"Infanta, Bayan","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330eced"},"code":300282,"parent":"LBMR East","customer":"Isla","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ecee"},"code":300283,"parent":"LBMR East","customer":"Pag-Itan","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ecef"},"code":300284,"parent":"LBMR East","customer":"Polillio","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ecf0"},"code":300285,"parent":"LBMR East","customer":"San Rafael Burdeos","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ecf1"},"code":300286,"parent":"LBMR East","customer":"Panukulan","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ecf2"},"code":300287,"parent":"LBMR East","customer":"Matangkap","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ecf3"},"code":300288,"parent":"LBMR East","customer":"Calendola","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ecf4"},"code":300289,"parent":"LBMR North","customer":"Canlalay","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ecf5"},"code":300290,"parent":"LBMR North","customer":"Chrysanthemum","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ecf6"},"code":300291,"parent":"LBMR North","customer":"Dila","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ecf7"},"code":300292,"parent":"LBMR North","customer":"Langgam","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ecf8"},"code":300293,"parent":"LBMR North","customer":"Loma","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ecf9"},"code":300294,"parent":"LBMR North","customer":"Malaban","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ecfa"},"code":300295,"parent":"LBMR North","customer":"Mamplasan","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ecfb"},"code":300296,"parent":"LBMR North","customer":"Platero","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ecfc"},"code":300297,"parent":"LBMR North","customer":"Pulong Sta. Cruz","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ecfd"},"code":300298,"parent":"LBMR North","customer":"San Lorenzo","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ecfe"},"code":300299,"parent":"LBMR North","customer":"San Pedro (Spcc)","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ecff"},"code":300300,"parent":"LBMR North","customer":"Southville","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed00"},"code":300301,"parent":"LBMR North","customer":"South Ridge","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed01"},"code":300302,"parent":"LBMR North","customer":"South City Homes","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed02"},"code":300303,"parent":"LBMR North","customer":"Sta. Rosa","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed03"},"code":300304,"parent":"LBMR North","customer":"Saint Joseph","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed04"},"code":300305,"parent":"LBMR North","customer":"San Pablo","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed05"},"code":300306,"parent":"LBMR South","customer":"Calauan","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed06"},"code":300307,"parent":"LBMR South","customer":"Alaminos","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed07"},"code":300308,"parent":"LBMR South","customer":"Santiago","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed08"},"code":300309,"parent":"LBMR South","customer":"Nagcarlan","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed09"},"code":300310,"parent":"LBMR South","customer":"Rizal","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed0a"},"code":300311,"parent":"LBMR South","customer":"Liliw","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed0b"},"code":300312,"parent":"LBMR South","customer":"Dayap","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed0c"},"code":300313,"parent":"LBMR South","customer":"Bunggo","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed0d"},"code":300314,"parent":"LBMR West","customer":"Cabuyao","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed0e"},"code":300315,"parent":"LBMR West","customer":"Parian, Calamba","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed0f"},"code":300316,"parent":"LBMR West","customer":"Camp Vicente Lim","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed10"},"code":300317,"parent":"LBMR West","customer":"Canlubang","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed11"},"code":300318,"parent":"LBMR West","customer":"Don Vicente Villas","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed12"},"code":300319,"parent":"LBMR West","customer":"Lakeside","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed13"},"code":300320,"parent":"LBMR West","customer":"Lecheria","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed14"},"code":300321,"parent":"LBMR West","customer":"Los Baños","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed15"},"code":300322,"parent":"LBMR West","customer":"Mabuhay","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed16"},"code":300323,"parent":"LBMR West","customer":"Milagrosa","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed17"},"code":300324,"parent":"LBMR West","customer":"Palo Alto","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed18"},"code":300325,"parent":"LBMR West","customer":"Pansol","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed19"},"code":300326,"parent":"LBMR West","customer":"Bay","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed1a"},"code":300327,"parent":"LBMR West","customer":"Banay-Banay","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed1b"},"code":300328,"parent":"LBMR West","customer":"Micheal Ibasan","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed1c"},"code":300329,"parent":"Dealer","customer":"Richard Medrano","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed1d"},"code":300330,"parent":"Dealer","customer":"Richard Parjan-Laguna","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed1e"},"code":300331,"parent":"Dealer","customer":"Joseph Nakara-Cavite","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed1f"},"code":300332,"parent":"Dealer","customer":"Pbb Food Pack","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed20"},"code":300333,"parent":"Food Pack","customer":"Metro Food Pack","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed21"},"code":300334,"parent":"Food Pack","customer":"Congressional","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed22"},"code":300335,"parent":"MM Central","customer":"Munoz","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed23"},"code":300336,"parent":"MM Central","customer":"Frisco","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed24"},"code":300337,"parent":"MM Central","customer":"Banawe","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed25"},"code":300338,"parent":"MM Central","customer":"Visayas Avenue","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed26"},"code":300339,"parent":"MM Central","customer":"Mindanao Avenue","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed27"},"code":300340,"parent":"MM Central","customer":"Npc","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed28"},"code":300341,"parent":"MM Central","customer":"Cubao Aurora","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed29"},"code":300342,"parent":"MM Central","customer":"Edsa Cubao","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed2a"},"code":300343,"parent":"MM Central","customer":"Krus Na Ligas","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed2b"},"code":300344,"parent":"MM Central","customer":"Kamuning","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed2c"},"code":300345,"parent":"MM Central","customer":"Goodwill","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed2d"},"code":300346,"parent":"MM Central","customer":"Lagro","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed2e"},"code":300347,"parent":"MM Central","customer":"Maligaya","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed2f"},"code":300348,"parent":"MM Central","customer":"Novaliches","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed30"},"code":300349,"parent":"MM Central","customer":"Quirino","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed31"},"code":300350,"parent":"MM Central","customer":"Sangandaan","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed32"},"code":300351,"parent":"MM Central","customer":"Sta. Lucia","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed33"},"code":300352,"parent":"MM Central","customer":"Commonwealth","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed34"},"code":300353,"parent":"MM Central","customer":"Payatas B","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed35"},"code":300354,"parent":"MM Central","customer":"Batasan Hills","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed36"},"code":300355,"parent":"MM Central","customer":"Talanay","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed37"},"code":300356,"parent":"MM Central","customer":"Sitio Veterans","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed38"},"code":300357,"parent":"MM Central","customer":"Unit 5","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed39"},"code":300358,"parent":"MM Central","customer":"Kvi","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed3a"},"code":300359,"parent":"MM Central","customer":"Ultimate Burger","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed3b"},"code":300360,"parent":"MM Central","customer":"Cdo","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed3c"},"code":300361,"parent":"MM Central","customer":"Calumpang","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed3d"},"code":300362,"parent":"MM East","customer":"Olandes","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed3e"},"code":300363,"parent":"MM East","customer":"Concepcion","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed3f"},"code":300364,"parent":"MM East","customer":"Nangka","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed40"},"code":300365,"parent":"MM East","customer":"Parang","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed41"},"code":300366,"parent":"MM East","customer":"Sto. Nino","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed42"},"code":300367,"parent":"MM East","customer":"Maybunga","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed43"},"code":300368,"parent":"MM East","customer":"Ortigas","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed44"},"code":300369,"parent":"MM East","customer":"Rosario","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed45"},"code":300370,"parent":"MM East","customer":"Santolan","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed46"},"code":300371,"parent":"MM East","customer":"Pasig Bayan","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed47"},"code":300372,"parent":"MM East","customer":"Pineda","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed48"},"code":300373,"parent":"MM East","customer":"Pateros","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed49"},"code":300374,"parent":"MM East","customer":"Pinagbuhatan","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed4a"},"code":300375,"parent":"MM East","customer":"San Joaquin","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed4b"},"code":300376,"parent":"MM East","customer":"Boni Dansalan","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed4c"},"code":300377,"parent":"MM East","customer":"Greenhills","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed4d"},"code":300378,"parent":"MM East","customer":"N. Domingo","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed4e"},"code":300379,"parent":"MM East","customer":"Shaw Blvd.","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed4f"},"code":300380,"parent":"MM East","customer":"Rainforest","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed50"},"code":300381,"parent":"MM East","customer":"EDCO","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed51"},"code":300382,"parent":"MM East","customer":"A.Mabini 1","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed52"},"code":300383,"parent":"MM North","customer":"A.Mabini 2","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed53"},"code":300384,"parent":"MM North","customer":"Baesa","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed54"},"code":300385,"parent":"MM North","customer":"C3 Caloocan","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed55"},"code":300386,"parent":"MM North","customer":"Edsa Caloocan","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed56"},"code":300387,"parent":"MM North","customer":"Vista Verde","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed57"},"code":300388,"parent":"MM North","customer":"Bs Phase 1","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed58"},"code":300389,"parent":"MM North","customer":"Bs Phase 5","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed59"},"code":300390,"parent":"MM North","customer":"Bs Phase 9","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed5a"},"code":300391,"parent":"MM North","customer":"Deparo","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed5b"},"code":300392,"parent":"MM North","customer":"Natividad","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed5c"},"code":300393,"parent":"MM North","customer":"Pagasa","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed5d"},"code":300394,"parent":"MM North","customer":"Ascoville","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed5e"},"code":300395,"parent":"MM North","customer":"Tala","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed5f"},"code":300396,"parent":"MM North","customer":"Zabarte","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed60"},"code":300397,"parent":"MM North","customer":"Zapote","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed61"},"code":300398,"parent":"MM North","customer":"Canumay East","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed62"},"code":300399,"parent":"MM North","customer":"Coloong","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed63"},"code":300400,"parent":"MM North","customer":"Dalandanan","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed64"},"code":300401,"parent":"MM North","customer":"Gen T De Leon","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed65"},"code":300402,"parent":"MM North","customer":"Malinta","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed66"},"code":300403,"parent":"MM North","customer":"Marulas","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed67"},"code":300404,"parent":"MM North","customer":"Polo","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed68"},"code":300405,"parent":"MM North","customer":"Punturin","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed69"},"code":300406,"parent":"MM North","customer":"Ugong","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed6a"},"code":300407,"parent":"MM North","customer":"Agora","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed6b"},"code":300408,"parent":"MM North","customer":"Concepcion","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed6c"},"code":300409,"parent":"MM North","customer":"Flores","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed6d"},"code":300410,"parent":"MM North","customer":"Navotas","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed6e"},"code":300411,"parent":"MM North","customer":"Tugatog","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed6f"},"code":300412,"parent":"MM North","customer":"Saranay","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed70"},"code":300413,"parent":"MM North","customer":"NDAO","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed71"},"code":300414,"parent":"MM North","customer":"Baclaran","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed72"},"code":300415,"parent":"MM South","customer":"Bf Sucat","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed73"},"code":300416,"parent":"MM South","customer":"Libertad","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed74"},"code":300417,"parent":"MM South","customer":"Malibay","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed75"},"code":300418,"parent":"MM South","customer":"Moonwalk","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed76"},"code":300419,"parent":"MM South","customer":"Sunvalley","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed77"},"code":300420,"parent":"MM South","customer":"Villamor","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed78"},"code":300421,"parent":"MM South","customer":"C5","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed79"},"code":300422,"parent":"MM South","customer":"Lower Bicutan","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed7a"},"code":300423,"parent":"MM South","customer":"Signal1","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed7b"},"code":300424,"parent":"MM South","customer":"Signal2","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed7c"},"code":300425,"parent":"MM South","customer":"Tuktukan","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed7d"},"code":300426,"parent":"MM South","customer":"Upper Bicutan","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed7e"},"code":300427,"parent":"MM South","customer":"Alabang","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed7f"},"code":300428,"parent":"MM South","customer":"Bagumbayan","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed80"},"code":300429,"parent":"MM South","customer":"Bayanan","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed81"},"code":300430,"parent":"MM South","customer":"Sucat Munti","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed82"},"code":300431,"parent":"MM South","customer":"Tunasan","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed83"},"code":300432,"parent":"MM South","customer":"Victoria","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed84"},"code":300433,"parent":"MM South","customer":"Almanza","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed85"},"code":300434,"parent":"MM South","customer":"CAA","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed86"},"code":300435,"parent":"MM South","customer":"Las Pinas","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed87"},"code":300436,"parent":"MM South","customer":"San Isidro","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed88"},"code":300437,"parent":"MM South","customer":"Sucat","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed89"},"code":300438,"parent":"MM South","customer":"Southville","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed8a"},"code":300439,"parent":"MM South","customer":"TS Cruz","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed8b"},"code":300440,"parent":"MM South","customer":"SDO","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed8c"},"code":300441,"parent":"MM South","customer":"Baseco","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed8d"},"code":300442,"parent":"MM West","customer":"Blumentrit","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed8e"},"code":300443,"parent":"MM West","customer":"Chinatown","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed8f"},"code":300444,"parent":"MM West","customer":"Espana","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed90"},"code":300445,"parent":"MM West","customer":"Quiapo","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed91"},"code":300446,"parent":"MM West","customer":"Sta. Mesa","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed92"},"code":300447,"parent":"MM West","customer":"Malate","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed93"},"code":300448,"parent":"MM West","customer":"Paco","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed94"},"code":300449,"parent":"MM West","customer":"Pandacan","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed95"},"code":300450,"parent":"MM West","customer":"San Andres","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed96"},"code":300451,"parent":"MM West","customer":"Sta. Ana","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed97"},"code":300452,"parent":"MM West","customer":"Bambang","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed98"},"code":300453,"parent":"MM West","customer":"Panday Pira","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed99"},"code":300454,"parent":"MM West","customer":"Northbay","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed9a"},"code":300455,"parent":"MM West","customer":"Tondo","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed9b"},"code":300456,"parent":"MM West","customer":"Zaragosa","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed9c"},"code":300457,"parent":"MM West","customer":"Ayala","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82031dd1b66085330ed9d"},"code":300458,"parent":"MM West","customer":"Brgy. Rizal","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330ed9e"},"code":300459,"parent":"MM West","customer":"Comembo","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330ed9f"},"code":300460,"parent":"MM West","customer":"Edsa Guadalupe","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330eda0"},"code":300461,"parent":"MM West","customer":"Evangelista","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330eda1"},"code":300462,"parent":"MM West","customer":"Jp Rizal","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330eda2"},"code":300463,"parent":"MM West","customer":"Sampaloc","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330eda3"},"code":300464,"parent":"MM West","customer":"WDO","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330eda4"},"code":300465,"parent":"MM West","customer":"Untv Cup","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330eda5"},"code":300466,"parent":"UNTV","customer":"Untv Event","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330eda6"},"code":300467,"parent":"UNTV","customer":"Untv Café","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330eda7"},"code":300468,"parent":"UNTV","customer":"Daniel'S Coffee","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330eda8"},"code":300469,"parent":"UNTV","customer":"Central-Brgy. Militar","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330eda9"},"code":300470,"parent":"Nueva Ecija","customer":"Central-Cabanatuan Coordinating Center","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330edaa"},"code":300471,"parent":"Nueva Ecija","customer":"Central-Camp Tinio","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330edab"},"code":300472,"parent":"Nueva Ecija","customer":"Central-Caridad","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330edac"},"code":300473,"parent":"Nueva Ecija","customer":"Central-Mayapyap Sur","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330edad"},"code":300474,"parent":"Nueva Ecija","customer":"Central-San Josef","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330edae"},"code":300475,"parent":"Nueva Ecija","customer":"Central-Sta. Rosa Coordinating Center","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330edaf"},"code":300476,"parent":"Nueva Ecija","customer":"Central-Tagpos","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330edb0"},"code":300477,"parent":"Nueva Ecija","customer":"North-Cabucbucan","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330edb1"},"code":300478,"parent":"Nueva Ecija","customer":"North-Carranglan","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330edb2"},"code":300479,"parent":"Nueva Ecija","customer":"North-Castañeda","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330edb3"},"code":300480,"parent":"Nueva Ecija","customer":"North-Dig-Dig","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330edb4"},"code":300481,"parent":"Nueva Ecija","customer":"North-Ganduz","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330edb5"},"code":300482,"parent":"Nueva Ecija","customer":"North-Gomez","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330edb6"},"code":300483,"parent":"Nueva Ecija","customer":"North-Llanera","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330edb7"},"code":300484,"parent":"Nueva Ecija","customer":"North-Lublub","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330edb8"},"code":300485,"parent":"Nueva Ecija","customer":"North-Lupao","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330edb9"},"code":300486,"parent":"Nueva Ecija","customer":"North-Muñoz Coordinating Center","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330edba"},"code":300487,"parent":"Nueva Ecija","customer":"North-Pulang Lupa","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330edbb"},"code":300488,"parent":"Nueva Ecija","customer":"North-Rizal Coordinating Center","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330edbc"},"code":300489,"parent":"Nueva Ecija","customer":"North-Salazar","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330edbd"},"code":300490,"parent":"Nueva Ecija","customer":"North-San Jose Coordinating Center","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330edbe"},"code":300491,"parent":"Nueva Ecija","customer":"North-San Juan","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330edbf"},"code":300492,"parent":"Nueva Ecija","customer":"North-Villa Paraiso","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330edc0"},"code":300493,"parent":"Nueva Ecija","customer":"East-Balaring","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330edc1"},"code":300494,"parent":"Nueva Ecija","customer":"East-Bongabon","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330edc2"},"code":300495,"parent":"Nueva Ecija","customer":"East-Gabaldon","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330edc3"},"code":300496,"parent":"Nueva Ecija","customer":"East-Gen. Natividad","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330edc4"},"code":300497,"parent":"Nueva Ecija","customer":"East-Langka","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330edc5"},"code":300498,"parent":"Nueva Ecija","customer":"East-Laur","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330edc6"},"code":300499,"parent":"Nueva Ecija","customer":"East-Palale","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330edc7"},"code":300500,"parent":"Nueva Ecija","customer":"East-Palayan","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330edc8"},"code":300501,"parent":"Nueva Ecija","customer":"East-Panacsac","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330edc9"},"code":300502,"parent":"Nueva Ecija","customer":"East-Sandelain","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330edca"},"code":300503,"parent":"Nueva Ecija","customer":"West A-Aliaga","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330edcb"},"code":300504,"parent":"Nueva Ecija","customer":"West A-Bantug, Talavera","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330edcc"},"code":300505,"parent":"Nueva Ecija","customer":"West A-Bulac","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330edcd"},"code":300506,"parent":"Nueva Ecija","customer":"West A-Ilog Baliwag","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330edce"},"code":300507,"parent":"Nueva Ecija","customer":"West A-San Carlos","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330edcf"},"code":300508,"parent":"Nueva Ecija","customer":"West A-Sto. Domingo","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330edd0"},"code":300509,"parent":"Nueva Ecija","customer":"West A-Tabacao","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330edd1"},"code":300510,"parent":"Nueva Ecija","customer":"West A-Talavera Coordinating Center","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330edd2"},"code":300511,"parent":"Nueva Ecija","customer":"West B-Cuyapo","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330edd3"},"code":300512,"parent":"Nueva Ecija","customer":"West B-Guimba","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330edd4"},"code":300513,"parent":"Nueva Ecija","customer":"West B-Licab","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330edd5"},"code":300514,"parent":"Nueva Ecija","customer":"West B-Manacsac","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330edd6"},"code":300515,"parent":"Nueva Ecija","customer":"West B-Nampicuan","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330edd7"},"code":300516,"parent":"Nueva Ecija","customer":"West B-Quezon","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330edd8"},"code":300517,"parent":"Nueva Ecija","customer":"West B-Talugtog","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330edd9"},"code":300518,"parent":"Nueva Ecija","customer":"South-Bulak","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330edda"},"code":300519,"parent":"Nueva Ecija","customer":"South-Entablado","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330eddb"},"code":300520,"parent":"Nueva Ecija","customer":"South-Gapan Coordinating Center","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330eddc"},"code":300521,"parent":"Nueva Ecija","customer":"South-Gen. Tinio","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330eddd"},"code":300522,"parent":"Nueva Ecija","customer":"South-Jaen","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330edde"},"code":300523,"parent":"Nueva Ecija","customer":"South-Lambakin","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330eddf"},"code":300524,"parent":"Nueva Ecija","customer":"South-Lawang Kupang","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330ede0"},"code":300525,"parent":"Nueva Ecija","customer":"South-Marawa","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330ede1"},"code":300526,"parent":"Nueva Ecija","customer":"South-Natividad, Cabiao","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330ede2"},"code":300527,"parent":"Nueva Ecija","customer":"South-Norte, Cabiao","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330ede3"},"code":300528,"parent":"Nueva Ecija","customer":"South-Peñaranda","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330ede4"},"code":300529,"parent":"Nueva Ecija","customer":"South-San Antonio","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330ede5"},"code":300530,"parent":"Nueva Ecija","customer":"South-San Isidro","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330ede6"},"code":300531,"parent":"Nueva Ecija","customer":"South-San Leonardo Coordinating Center","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330ede7"},"code":300532,"parent":"Nueva Ecija","customer":"South-San Lorenzo","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330ede8"},"code":300533,"parent":"Nueva Ecija","customer":"South-San Vicent, Cabiao","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330ede9"},"code":300534,"parent":"Nueva Ecija","customer":"South-Saudi","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330edea"},"code":300535,"parent":"Nueva Ecija","customer":"South-Zaragoza Coordinating Center","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330edeb"},"code":300536,"parent":"Nueva Ecija","customer":"North Ville","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330edec"},"code":300537,"parent":"Pampanga District 1","customer":"Epza","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330eded"},"code":300538,"parent":"Pampanga District 1","customer":"Pandan","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330edee"},"code":300539,"parent":"Pampanga District 1","customer":"Marisol","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330edef"},"code":300540,"parent":"Pampanga District 1","customer":"Angles Coor. Center (Acc)","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330edf0"},"code":300541,"parent":"Pampanga District 1","customer":"Sacobia","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330edf1"},"code":300542,"parent":"Pampanga District 1","customer":"Sabang Bato","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330edf2"},"code":300543,"parent":"Pampanga District 1","customer":"Sta Cruz","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330edf3"},"code":300544,"parent":"Pampanga District 1","customer":"Manibaug","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330edf4"},"code":300545,"parent":"Pampanga District 1","customer":"Cangatba","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330edf5"},"code":300546,"parent":"Pampanga District 1","customer":"Model Com","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330edf6"},"code":300547,"parent":"Pampanga District 2","customer":"Dau","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330edf7"},"code":300548,"parent":"Pampanga District 2","customer":"Mandani","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330edf8"},"code":300549,"parent":"Pampanga District 2","customer":"Madapdap","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330edf9"},"code":300550,"parent":"Pampanga District 2","customer":"Casmor","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330edfa"},"code":300551,"parent":"Pampanga District 2","customer":"Pandacaqui","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330edfb"},"code":300552,"parent":"Pampanga District 2","customer":"Mabatobato","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330edfc"},"code":300553,"parent":"Pampanga District 2","customer":"San Antonio","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330edfd"},"code":300554,"parent":"Pampanga District 2","customer":"Mawaque","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330edfe"},"code":300555,"parent":"Pampanga District 3","customer":"Gulangco","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330edff"},"code":300556,"parent":"Pampanga District 3","customer":"Sta Cruz","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330ee00"},"code":300557,"parent":"Pampanga District 3","customer":"Apalit","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330ee01"},"code":300558,"parent":"Pampanga District 3","customer":"Mabical","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330ee02"},"code":300559,"parent":"Pampanga District 3","customer":"Sasmuan","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330ee03"},"code":300560,"parent":"Pampanga District 3","customer":"San Matias","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330ee04"},"code":300561,"parent":"Pampanga District 3","customer":"Dila Dila","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330ee05"},"code":300562,"parent":"Pampanga District 3","customer":"San Anton","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330ee06"},"code":300563,"parent":"Pampanga District 3","customer":"San Nicolas","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330ee07"},"code":300564,"parent":"Pampanga District 3","customer":"Quilo","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330ee08"},"code":300565,"parent":"Pampanga District 3","customer":"San Basilio","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330ee09"},"code":300566,"parent":"Pampanga District 3","customer":"Betis","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330ee0a"},"code":300567,"parent":"Pampanga District 3","customer":"Sto Domingo","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330ee0b"},"code":300576,"parent":"Pampanga District 5","customer":"Sta Ana","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330ee0c"},"code":300577,"parent":"Pampanga District 5","customer":"Candating","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330ee0d"},"code":300578,"parent":"Pampanga District 5","customer":"San Mateo","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330ee0e"},"code":300579,"parent":"Pampanga District 5","customer":"Candaba","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330ee0f"},"code":300580,"parent":"Pampanga District 5","customer":"San Luis","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330ee10"},"code":300581,"parent":"Pampanga District 5","customer":"Mesulo","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330ee11"},"code":300582,"parent":"Pampanga District 5","customer":"Bical","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330ee12"},"code":300583,"parent":"Rizal Central","customer":"Antipolo","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330ee13"},"code":300584,"parent":"Rizal Central","customer":"Balanti","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330ee14"},"code":300585,"parent":"Rizal Central","customer":"Cabading","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330ee15"},"code":300586,"parent":"Rizal Central","customer":"Cogeo","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330ee16"},"code":300587,"parent":"Rizal Central","customer":"Mahabang Parang","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330ee17"},"code":300588,"parent":"Rizal Central","customer":"Masinag","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330ee18"},"code":300589,"parent":"Rizal Central","customer":"Padilla","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330ee19"},"code":300590,"parent":"Rizal Central","customer":"Penafrancia","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330ee1a"},"code":300591,"parent":"Rizal Central","customer":"Santana","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330ee1b"},"code":300592,"parent":"Rizal Central","customer":"Sumilang","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330ee1c"},"code":300593,"parent":"Rizal Central","customer":"Teresa","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330ee1d"},"code":300594,"parent":"Rizal Central","customer":"Botong Francisco","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330ee1e"},"code":300595,"parent":"Rizal Central","customer":"Cupang (Panorama)","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330ee1f"},"code":300596,"parent":"Rizal Central","customer":"Kaysakat","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330ee20"},"code":300597,"parent":"Rizal Central","customer":"San Ysiro","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330ee21"},"code":300598,"parent":"Rizal Central","customer":"Sapinit","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330ee22"},"code":300599,"parent":"Rizal Central","customer":"Bagumbong","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330ee23"},"code":300600,"parent":"Rizal East","customer":"Balimbing","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330ee24"},"code":300601,"parent":"Rizal East","customer":"Baras","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330ee25"},"code":300602,"parent":"Rizal East","customer":"Daraitan","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330ee26"},"code":300603,"parent":"Rizal East","customer":"Jala-Jala","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330ee27"},"code":300604,"parent":"Rizal East","customer":"Mag-Ampon","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330ee28"},"code":300605,"parent":"Rizal East","customer":"Malaya","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330ee29"},"code":300606,"parent":"Rizal East","customer":"Morong","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330ee2a"},"code":300607,"parent":"Rizal East","customer":"Pililla","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330ee2b"},"code":300608,"parent":"Rizal East","customer":"Quisao","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330ee2c"},"code":300609,"parent":"Rizal East","customer":"Sampaloc","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330ee2d"},"code":300610,"parent":"Rizal East","customer":"Tanay","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330ee2e"},"code":300611,"parent":"Rizal East","customer":"San Guillermo","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330ee2f"},"code":300612,"parent":"Rizal East","customer":"Ampid","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330ee30"},"code":300613,"parent":"Rizal North","customer":"Kasiglahan","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330ee31"},"code":300614,"parent":"Rizal North","customer":"San Mateo","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330ee32"},"code":300615,"parent":"Rizal North","customer":"Southvill","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330ee33"},"code":300616,"parent":"Rizal North","customer":"Tieramonte","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330ee34"},"code":300617,"parent":"Rizal North","customer":"Modesta","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330ee35"},"code":300618,"parent":"Rizal North","customer":"Montalban","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330ee36"},"code":300619,"parent":"Rizal North","customer":"NTA","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330ee37"},"code":300620,"parent":"Rizal North","customer":"Macabud","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330ee38"},"code":300621,"parent":"Rizal North","customer":"Angono","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330ee39"},"code":300622,"parent":"Rizal South","customer":"Batingan","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330ee3a"},"code":300623,"parent":"Rizal South","customer":"Calumpang","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330ee3b"},"code":300624,"parent":"Rizal South","customer":"Cardona","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330ee3c"},"code":300625,"parent":"Rizal South","customer":"Heraldville","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330ee3d"},"code":300626,"parent":"Rizal South","customer":"Lunsad","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330ee3e"},"code":300627,"parent":"Rizal South","customer":"Layunan","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330ee3f"},"code":300628,"parent":"Rizal South","customer":"Mabuhay","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330ee40"},"code":300629,"parent":"Rizal South","customer":"Madrigal","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330ee41"},"code":300630,"parent":"Rizal South","customer":"Tayuman","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330ee42"},"code":300631,"parent":"Rizal South","customer":"Arenda","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330ee43"},"code":300632,"parent":"Rizal West","customer":"Brookside","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330ee44"},"code":300633,"parent":"Rizal West","customer":"Cabrera","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330ee45"},"code":300634,"parent":"Rizal West","customer":"Cainta","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330ee46"},"code":300635,"parent":"Rizal West","customer":"Genesis","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330ee47"},"code":300636,"parent":"Rizal West","customer":"Imelda Avenue","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330ee48"},"code":300637,"parent":"Rizal West","customer":"Nagtinig","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330ee49"},"code":300638,"parent":"Rizal West","customer":"Ortigas Extension","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330ee4a"},"code":300639,"parent":"Rizal West","customer":"San Francisco (F2)","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330ee4b"},"code":300640,"parent":"Rizal West","customer":"San Juan Resettlement","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330ee4c"},"code":300641,"parent":"Rizal West","customer":"Taytay Kalayaan","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330ee4d"},"code":300642,"parent":"Rizal West","customer":"Taytay Villa","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330ee4e"},"code":300643,"parent":"Rizal West","customer":"Arenda C6","customerType":"Locale","status":"Active"}
+{"_id":{"$oid":"58c82032dd1b66085330ee4f"},"code":300644,"parent":"Rizal West","customer":"Exodus","customerType":"Locale","status":"Active"}

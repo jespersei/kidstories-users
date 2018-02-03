@@ -1,0 +1,46 @@
+{"_id":{"$oid":"58c82483dd1b66085330ee70"},"code":400000,"supplier":"SVNM","TinNumber":"223-179-632-000","status":"Active"}
+{"_id":{"$oid":"58c82483dd1b66085330ee71"},"code":400001,"supplier":"SHANGHAI","TinNumber":"006-175-993-001","status":"Active"}
+{"_id":{"$oid":"58c82483dd1b66085330ee72"},"code":400002,"supplier":"KELLITECH","TinNumber":"007-595-488-000","status":"Active"}
+{"_id":{"$oid":"58c82483dd1b66085330ee73"},"code":400003,"supplier":"Vitalite Trading","TinNumber":"008-103-058-000","status":"Active"}
+{"_id":{"$oid":"58c82483dd1b66085330ee74"},"code":400004,"supplier":"C \u0026 G Electrical Supply","TinNumber":"103-915-705-000","status":"Active"}
+{"_id":{"$oid":"58c82483dd1b66085330ee75"},"code":400005,"supplier":"Sheraton Plumbing","TinNumber":"111-757-015-000","status":"Active"}
+{"_id":{"$oid":"58c82483dd1b66085330ee76"},"code":400006,"supplier":"Elecon Powehaus INC","TinNumber":"243-192-823-000","status":"Active"}
+{"_id":{"$oid":"58c82483dd1b66085330ee77"},"code":400007,"supplier":"Joylucky Hardware","TinNumber":"211-715-231-000","status":"Active"}
+{"_id":{"$oid":"58c82483dd1b66085330ee78"},"code":400008,"supplier":"Shun Tak Industrial Supply","TinNumber":"007-086-691-000","status":"Active"}
+{"_id":{"$oid":"58c82483dd1b66085330ee79"},"code":400009,"supplier":"Screw Master hardware","TinNumber":"103-905-204-001","status":"Active"}
+{"_id":{"$oid":"58c82483dd1b66085330ee7a"},"code":400010,"supplier":"3M Industrial Supply","TinNumber":"940-588-195-000","status":"Active"}
+{"_id":{"$oid":"58c82483dd1b66085330ee7b"},"code":400011,"supplier":"MZQ Trading","TinNumber":"411-815-622-000","status":"Active"}
+{"_id":{"$oid":"58c82483dd1b66085330ee7c"},"code":400012,"supplier":"BEST Achiever's Intl Marketing","TinNumber":"103-929-373-000","status":"Active"}
+{"_id":{"$oid":"58c82483dd1b66085330ee7d"},"code":400013,"supplier":"RTR Marketing","TinNumber":"442-625-439-000","status":"Active"}
+{"_id":{"$oid":"58c82483dd1b66085330ee7e"},"code":400014,"supplier":"BON BON Merchandisers","TinNumber":"200-042-853-000","status":"Active"}
+{"_id":{"$oid":"58c82483dd1b66085330ee7f"},"code":400015,"supplier":"Screw City Hardware","TinNumber":"103-922-206-000","status":"Active"}
+{"_id":{"$oid":"58c82483dd1b66085330ee80"},"code":400016,"supplier":"Grand Sehong Hardware","TinNumber":"008-293-697-000","status":"Active"}
+{"_id":{"$oid":"58c82483dd1b66085330ee81"},"code":400017,"supplier":"Integrity Construction","TinNumber":"500-691-500-000","status":"Active"}
+{"_id":{"$oid":"58c82483dd1b66085330ee82"},"code":400018,"supplier":"Toyoken RTW","TinNumber":"258-736-898-002","status":"Active"}
+{"_id":{"$oid":"58c82483dd1b66085330ee83"},"code":400019,"supplier":"Robinson Inc","TinNumber":"000-345-273-021","status":"Active"}
+{"_id":{"$oid":"58c82483dd1b66085330ee84"},"code":400020,"supplier":"SKMR General Merchandise","TinNumber":"205-938-410-000","status":"Active"}
+{"_id":{"$oid":"58c82483dd1b66085330ee85"},"code":400021,"supplier":"Manila Aquaseal MFG. Corp.","TinNumber":"008-339-356-000","status":"Active"}
+{"_id":{"$oid":"58c82483dd1b66085330ee86"},"code":400022,"supplier":"Granite Industrial Corp.","TinNumber":"004-494-264-007","status":"Active"}
+{"_id":{"$oid":"58c82483dd1b66085330ee87"},"code":400023,"supplier":"Suy Huat Hardware Co. Inc.","TinNumber":"000-332-574-000","status":"Active"}
+{"_id":{"$oid":"58c82483dd1b66085330ee88"},"code":400024,"supplier":"HI-KING Commercial","TinNumber":"110-779-366-000","status":"Active"}
+{"_id":{"$oid":"58c82483dd1b66085330ee89"},"code":400025,"supplier":"MAC Acrylic Center","TinNumber":"101-670-444-000","status":"Active"}
+{"_id":{"$oid":"58c82483dd1b66085330ee8a"},"code":400026,"supplier":"MINTEX Industrial Supply","TinNumber":"235-014-750-000","status":"Active"}
+{"_id":{"$oid":"58c82483dd1b66085330ee8b"},"code":400027,"supplier":"Jivan Trading","TinNumber":"299-085-807-000","status":"Active"}
+{"_id":{"$oid":"58c82483dd1b66085330ee8c"},"code":400028,"supplier":"Soler Metalcraft Marketing","TinNumber":"148-795-235-004","status":"Active"}
+{"_id":{"$oid":"58c82483dd1b66085330ee8d"},"code":400029,"supplier":"Mega Pacific Stainless Trading","TinNumber":"246-100-369-0001","status":"Active"}
+{"_id":{"$oid":"58c82483dd1b66085330ee8e"},"code":400030,"supplier":"AKIMSON Hardware \u0026 Electrical Supply","TinNumber":"134-996-224-000","status":"Active"}
+{"_id":{"$oid":"58c82483dd1b66085330ee8f"},"code":400031,"supplier":"Robinsons Handyman","TinNumber":"003-888-229-018","status":"Active"}
+{"_id":{"$oid":"58c82483dd1b66085330ee90"},"code":400032,"supplier":"Contactor Choice Electrical Sales Corp","TinNumber":"007-922-049-000","status":"Active"}
+{"_id":{"$oid":"58c82483dd1b66085330ee91"},"code":400033,"supplier":"Kingsteel Trading \u0026 Multi Resources","TinNumber":"103-932-798-000","status":"Active"}
+{"_id":{"$oid":"58c82483dd1b66085330ee92"},"code":400034,"supplier":"MOE Hardware","TinNumber":"221-848-441-000","status":"Active"}
+{"_id":{"$oid":"58c82483dd1b66085330ee93"},"code":400035,"supplier":"REYTEN Builders","TinNumber":"162-166-577-000","status":"Active"}
+{"_id":{"$oid":"58c82484dd1b66085330ee94"},"code":400036,"supplier":"Alysons Chemical Enterprises, Inc.","TinNumber":"000-364-505-000","status":"Active"}
+{"_id":{"$oid":"58c82484dd1b66085330ee95"},"code":400037,"supplier":"DIPS Digital Photo Studio","TinNumber":"202-558-026-000","status":"Active"}
+{"_id":{"$oid":"58c82484dd1b66085330ee96"},"code":400038,"supplier":"DSR Multimedia Productions","TinNumber":"260-091-915-001","status":"Active"}
+{"_id":{"$oid":"58c82484dd1b66085330ee97"},"code":400039,"supplier":"Salinas Corporation","TinNumber":"005-198-909-000","status":"Active"}
+{"_id":{"$oid":"58c82484dd1b66085330ee98"},"code":400040,"supplier":"Mer-Val Graphics","TinNumber":"131-019-517-000","status":"Active"}
+{"_id":{"$oid":"58c82484dd1b66085330ee99"},"code":400041,"supplier":"XAVIERY computers","TinNumber":"245-047-441-002","status":"Active"}
+{"_id":{"$oid":"58c82484dd1b66085330ee9a"},"code":400042,"supplier":"DEECO","TinNumber":"000-081-706-012","status":"Active"}
+{"_id":{"$oid":"58c82484dd1b66085330ee9b"},"code":400043,"supplier":"Jerry Tan Garments","TinNumber":"226-106-310-000","status":"Active"}
+{"_id":{"$oid":"58c82484dd1b66085330ee9c"},"code":400044,"supplier":"CD-R King Gen. Merchandise","TinNumber":"008-134-023-053","status":"Active"}
+{"_id":{"$oid":"58c82484dd1b66085330ee9d"},"code":400045,"supplier":"BOYE Office Supply","TinNumber":"439-803-216-000","status":"Active"}

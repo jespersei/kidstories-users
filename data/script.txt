@@ -1,0 +1,34 @@
+## EXPORT
+
+mongoexport --db gogam --collection articles --out articles.json
+mongoexport --db gogam --collection bottle_customers --out bottle_customers.json
+mongoexport --db gogam --collection bottle_inventory --out bottle_inventory.json
+mongoexport --db gogam --collection bottle_inventory_history --out bottle_inventory_history.json
+mongoexport --db gogam --collection bottle_sales_orders --out bottle_sales_orders.json
+mongoexport --db gogam --collection product_pricing --out product_pricing.json
+mongoexport --db gogam --collection product_type --out product_type.json
+mongoexport --db gogam --collection remarks --out remarks.json
+mongoexport --db gogam --collection return_reason --out return_reason.json
+mongoexport --db gogam --collection roles --out roles.json
+mongoexport --db gogam --collection supplier_customer --out supplier_customer.json
+mongoexport --db gogam --collection supplies_products --out supplies_products.json
+mongoexport --db gogam --collection transaction_type --out transaction_type.json
+mongoexport --db gogam --collection users --out users.json
+mongoexport --db gogam --collection warehouse --out warehouse.json
+
+## IMPORT
+
+mongoimport --db marcidbluedb --collection bottle_customers --file bottle_customers.json
+mongoimport --db marcidbluedb --collection bottle_inventory --file bottle_inventory.json
+mongoimport --db marcidbluedb --collection bottle_inventory_history --file bottle_inventory_history.json
+mongoimport --db marcidbluedb --collection bottle_sales_orders --file bottle_sales_orders.json
+mongoimport --db marcidbluedb --collection product_pricing --file product_pricing.json
+mongoimport --db marcidbluedb --collection product_type --file product_type.json
+mongoimport --db marcidbluedb --collection remarks --file remarks.json
+mongoimport --db marcidbluedb --collection return_reason --file return_reason.json
+mongoimport --db marcidbluedb --collection roles --file roles.json
+mongoimport --db marcidbluedb --collection supplier_customer --file supplier_customer.json
+mongoimport --db marcidbluedb --collection supplies_products --file supplies_products.json
+mongoimport --db marcidbluedb --collection transaction_type --file transaction_type.json
+mongoimport --db marcidbluedb --collection users --file users.json
+mongoimport --db marcidbluedb --collection warehouse --file warehouse.json
